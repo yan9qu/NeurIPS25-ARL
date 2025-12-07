@@ -2,9 +2,8 @@
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116409)
 
-Official PyTorch implementation of **"Adaptive Re-calibration Learning for Balanced Multimodal Intention Recognition"** (NeurIPS 2025).
-
-Qu Yang, Xiyang Li, Fu Lin, Mang Ye [[Link]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116409)
+> **"Adaptive Re-calibration Learning for Balanced Multimodal Intention Recognition"** 
+> Qu Yang, Xiyang Li, Fu Lin, Mang Ye [[Link]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116409)
 
 <div align="center">
   <img src="image/arl.png" alt="ARL Framework" width="800"/>
