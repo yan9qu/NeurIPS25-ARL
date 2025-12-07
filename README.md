@@ -13,6 +13,27 @@
 
 This repository provides the implementation of Adaptive Re-calibration Learning (ARL), a novel approach for balanced multimodal intention recognition. 
 
+## Quick Start
+
+```bash
+# Create and activate conda environment
+conda create --name arl python=3.6
+conda activate arl 
+
+# Install PyTorch
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+# Clone the repository
+git clone git@github.com:yan9qu/NeurIPS25-ARL.git
+cd NeurIPS25-ARL
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the code
+python run.py
+```
+
 ## Citation
 
 If you find this work useful, please cite our paper:

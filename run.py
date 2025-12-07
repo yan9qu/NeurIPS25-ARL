@@ -1,4 +1,5 @@
 import os
+import random
 from configs.base import ParamManager
 from data.base import DataManager
 from methods import method_map
@@ -176,7 +177,7 @@ if __name__ == '__main__':
     args = parse_arguments()
 
     datasets = ['MOSI']
-    seeds = range(10)
+    seeds = [random.randint(0, 10000)]
     
     param = ParamManager(args)
     args = param.args
