@@ -1,0 +1,11 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name
+40.23,36.39,38.22,36.43,0.3779,MOSI,mag_bert,bert-base-uncased,0,mag_bert_MOSI_multi-class_2025-07-29-22-29-39
+39.94,33.49,34.07,35.33,0.4265,MOSI,mag_bert,bert-base-uncased,1,mag_bert_MOSI_multi-class_2025-07-29-22-41-06
+44.46,38.36,40.51,39.08,0.4125,MOSI,mag_bert,bert-base-uncased,2,mag_bert_MOSI_multi-class_2025-07-29-22-50-02
+44.46,36.3,35.47,39.17,0.3974,MOSI,mag_bert,bert-base-uncased,3,mag_bert_MOSI_multi-class_2025-07-29-22-59-43
+41.25,36.08,37.09,37.28,0.4258,MOSI,mag_bert,bert-base-uncased,4,mag_bert_MOSI_multi-class_2025-07-29-23-09-23
+42.86,37.98,38.65,39.6,0.4301,MOSI,mag_bert,bert-base-uncased,5,mag_bert_MOSI_multi-class_2025-07-29-23-19-51
+45.63,39.43,41.15,39.59,0.4216,MOSI,mag_bert,bert-base-uncased,6,mag_bert_MOSI_multi-class_2025-07-29-23-29-22
+39.36,36.66,37.12,37.45,0.412,MOSI,mag_bert,bert-base-uncased,7,mag_bert_MOSI_multi-class_2025-07-29-23-36-18
+43.0,36.32,39.52,36.85,0.4053,MOSI,mag_bert,bert-base-uncased,8,mag_bert_MOSI_multi-class_2025-07-29-23-43-57
+42.57,34.65,36.69,35.96,0.403,MOSI,mag_bert,bert-base-uncased,9,mag_bert_MOSI_multi-class_2025-07-29-23-51-35
